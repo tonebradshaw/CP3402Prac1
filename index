@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Power On Battery Hire</title>
+    
+<style>
+    
+    div.a {
+    text-align: center;
+    }
+    div.ima{
+    margin-top: 100px;
+    }
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    li {
+        float: left;
+    }
+    li a {
+          display: inline-block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+
+</style>
+</head>
+<body>
+
+<div class="a">
+    
+    <h1>Power On Battery Hire</h1>
+    <h2>Don't buy and throw away - Hire and return</h2>
+    
+    <ul>
+        <li><a href="index">Home</a></li>
+        <li><a href="hire">Hire</a></li>
+        <li><a href="about">About</a></li>
+    </ul>
+    
+    <div class="ima">
+        <img src="mixed1.png" alt="Image of various batteries"/>
+    </div>
+    
+</div>
+</body>
+</html> 

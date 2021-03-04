@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Power On Battery Hire</title>
+    
+<style>
+    
+    div.a { 
+    text-align: center;
+    }
+    div.ima{
+    margin-top: 100px;
+    }
+    div.image1{
+    text-align: center;
+    }
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    li {
+        float: left;
+    }
+    li a {
+          display: inline-block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+    img {
+    display: inline-block;
+    width: 33%; 
+    height: auto;
+    }
+    @media (max-width: 1100px) {
+        img {
+            width: 100%; // Override width to show only one image in a row on smaller screens
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="a">
+
+    <h1>Power On Battery Hire</h1>
+    <h2>Don't buy and throw away - Hire and return</h2>
+    
+    <ul>
+        <li><a href="index">Home</a></li>
+        <li><a href="hire">Hire</a></li>
+        <li><a href="about">About</a></li>
+    </ul>
+       
+</div>
+    
+<div class="img">
+    <div class="ima">
+    
+        <img src="autobattery1.png" alt="Image of auto battery"/>
+        <img src="heavydutybattery1.png" alt="Image of heavy duty battery"/>
+        <img src="tools1.png" alt="Image of camera and tool battery"/>
+    </div>
+</div>
+</body>
+</html> 
